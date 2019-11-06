@@ -7,5 +7,3 @@ cleanup.
 
 *You can play this game on my website!
 http://michaelpulis.com/Flipper/index.html
-
-Created in 2019.
